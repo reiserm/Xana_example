@@ -1,2 +1,2 @@
-# Xana_example_data
+# Xana Example
 Xana example jupyter notebook and XPCS data.
